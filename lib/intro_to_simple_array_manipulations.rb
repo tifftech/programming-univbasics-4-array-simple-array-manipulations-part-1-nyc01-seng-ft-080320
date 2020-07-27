@@ -1,1 +1,3 @@
-updated_array = using_push(colors_in_the_rainbow)
+def using_push(array, string)
+  array.push(string)
+end
